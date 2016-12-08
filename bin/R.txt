@@ -1,0 +1,13 @@
+int attr fill 0x7f010003
+int attr fillColor 0x7f010004
+int attr naturalColors 0x7f010005
+int attr pathColor 0x7f010000
+int attr pathWidth 0x7f010001
+int attr svg 0x7f010002
+int[] styleable PathView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005 }
+int styleable PathView_fill 3
+int styleable PathView_fillColor 4
+int styleable PathView_naturalColors 5
+int styleable PathView_pathColor 0
+int styleable PathView_pathWidth 1
+int styleable PathView_svg 2
